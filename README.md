@@ -6,8 +6,8 @@
 - 🎓 Currently studying **Frontend Development** at Noroff in Bergen  
 
 ## 🛠 Tech Stack  
-- **Languages:** HTML, CSS, JavaScript, JSON  
-- **Frameworks & Libraries:** ReactJS  
+- **Languages:** HTML, CSS, JavaScript, Typescript JSON  
+- **Frameworks & Libraries:** ReactJS, NextJS  
 - **Tools & Platforms:** Git, Shopify, WordPress, Sanity  
 
 ## 🎯 What I Do  
